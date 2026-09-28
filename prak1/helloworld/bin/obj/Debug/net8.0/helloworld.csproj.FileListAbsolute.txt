@@ -1,0 +1,15 @@
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/obj/Debug/net8.0/helloworld.sourcelink.json
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/helloworld
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/obj/Debug/net8.0/helloworld.dll
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/obj/Debug/net8.0/refint/helloworld.dll
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/obj/Debug/net8.0/helloworld.pdb
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/helloworld.deps.json
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/helloworld.runtimeconfig.json
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/helloworld.dll
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/obj/Debug/net8.0/ref/helloworld.dll
+/home/khz/vscode-projects/dafny/prak1/helloworld/bin/helloworld.pdb
